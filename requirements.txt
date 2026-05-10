@@ -1,0 +1,16 @@
+torch
+torchvision
+timm
+grad-cam
+kaggle
+pystac-client
+odc-stac
+rioxarray
+requests
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+Pillow
+opencv-python
